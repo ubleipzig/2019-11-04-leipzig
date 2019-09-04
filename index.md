@@ -487,7 +487,7 @@ please preview your site before committing, and make sure to run
   the workshop will teach Python using something other than
   the Jupyter notebook.
   Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
-  <h3>Python</h3>>
+  <h3>Python</h3>
 
   <p>
     <a href="https://python.org">Python</a> ist eine beliebte Sprache für die Verarbeitung von Forschungsdaten und eignet sich auch hervorragend für allgemeine Programmieraufgaben. Die Einzelinstallation aller Forschungspakete kann etwas schwierig sein, daher empfehlen wir <a href="https://www.anaconda.com/distribution/">Anaconda</a>, einen All-in-One-Installer.
