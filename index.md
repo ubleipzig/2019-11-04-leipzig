@@ -134,6 +134,21 @@ special instructions.
   Die Materialien werden vor dem Workshop zur Verfügung gestellt und bei Bedarf können großformatige Handzettel gereicht werden, was den Organisatoren vorab mitgeteilt werden sollte. Um Ihnen das Lernen zu erleichtern (z.B. Gebärdensprachdolmetscher, Vorkehrungen für stillende Mütter), bitten wir Sie, auf uns zu zutreten. Nehmen Sie Kontakt auf (unter Verwendung der untenstehenden Kontaktdaten) und wir werden versuchen, Ihnen weiterzuhelfen.
 </p>
 
+<p id="contact">
+  <strong>Zahlungsinformationen</strong>:
+  folgen
+</p>
+
+<p id="contact">
+  <strong>Registrierung</strong>:
+  folgt
+</p>
+
+<p id="contact">
+  <strong>Organisation</strong>:
+Wir freuen uns über die finanzielle Unterstützung dieses Workshops durch den VDB (Verein Deutscher Bibliothekarinnen und Bibliothekare). Der Workshop wird gemeinsam vom Regionalverband Sachsen - Sachsen-Anhalt - Thüringen und der Universitätsbibliothek Leipzig organisiert.
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
@@ -159,6 +174,15 @@ Display the contact email address set in the configuration file.
   für weitere Informationen.
 </p>
 
+<hr/>
+<p>
+<a href="https://www.vdb-online.org"> 
+   <img src="assets/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
+ </a>
+ <a href="https://www.ub.uni-leipzig.de">
+   <img src="assets/img/UBL_Logo_Blau.png" alt="UB Leipzig" height="100" align="right"/>
+ </a>
+</p>
 <hr/>
 
 {% comment %} 
