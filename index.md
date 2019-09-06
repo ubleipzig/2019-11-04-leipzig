@@ -2,13 +2,13 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Universitätsbibliothek Leipzig"        # brief name of host site without address (e.g., "Euphoric State University")
-address: " Bibliothek Medizin/Naturwissenschaften, Liebigstraße 23/25"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Library Carpentry, Universitätsbibliothek Leipzig"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Schulungsraum (1. OG) der Bibliothek Medizin/Naturwissenschaften, Liebigstraße 23/25, 04103 Leipzig"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "51.33155, 12.38978"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "04. - 05. November 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "09:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-11-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-11-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Karolin Bove", "Martin Czygan", "Ronny Gey", "Peter Mühleder", "Florian Rämisch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -113,7 +113,7 @@ Modify the block below if there are any special requirements.
 CODE OF CONDUCT
 {% endcomment %}
 <p id="code-of-conduct">
-<strong>Verhaltenskodex:</strong> Jeder, der an einer Carpentries-Veranstaltung teilnimmt, ist verpflichtet, sich an den  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Verhaltenskodex</a>. Dieses Dokument beschreibt auch, wie man bei Bedarf einen Vorfall melden kann.
+<strong>Verhaltenskodex:</strong> Jeder, der an einer Carpentries-Veranstaltung teilnimmt, ist verpflichtet, sich an den  <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Verhaltenskodex</a> zu halten. Dieses Dokument beschreibt auch, wie man bei Bedarf einen Vorfall melden kann.
 </p>
 
 
@@ -131,7 +131,7 @@ special instructions.
   <li>zugängliche Toiletten vorhanden sind.</li>
 </ul>
 <p>
-  Die Materialien werden vor dem Workshop zur Verfügung gestellt und bei Bedarf können großformatige Handzettel gereicht werden, was den Organisatoren vorab mitgeteilt werden sollte. Um Ihnen das Lernen zu erleichtern (z.B. Gebärdensprachdolmetscher, Vorkehrungen für stillende Mütter), bitten wir Sie, auf uns zu zutreten. Nehmen Sie Kontakt auf (unter Verwendung der untenstehenden Kontaktdaten) und wir werden versuchen, Ihnen weiterzuhelfen.
+  Die Materialien werden vor dem Workshop zur Verfügung gestellt und bei Bedarf können großformatige Handzettel gereicht werden, was den Organisatoren vorab mitgeteilt werden sollte. Um Ihnen das Lernen zu erleichtern (z.B. Gebärdensprachdolmetscher, Vorkehrungen für stillende Mütter), bitten wir Sie, uns vorab zu informieren. Nehmen Sie Kontakt auf (unter Verwendung der untenstehenden Kontaktdaten) und wir werden versuchen, Ihnen weiterzuhelfen.
 </p>
 
 <p id="contact">
