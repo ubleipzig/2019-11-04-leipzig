@@ -135,13 +135,11 @@ special instructions.
 </p>
 
 <p id="contact">
-  <strong>Zahlungsinformationen</strong>:
-  folgen
+  <strong>Zahlungsinformationen</strong>: 60 € (VDB-Mitglieder) bzw. 120 € (Nichtmitglieder). (Weitere Informationen: https://www.vdb-online.org/landesverbaende/sst/)
 </p>
 
 <p id="contact">
-  <strong>Registrierung</strong>:
-  folgt
+  <strong>Anmeldung</strong>: Per Mail bis 21.10.2019 an <mailto:rv.sa-sa-thue@vdb-online.org>.
 </p>
 
 <p id="contact">
