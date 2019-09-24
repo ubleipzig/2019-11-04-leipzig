@@ -139,7 +139,7 @@ special instructions.
 </p>
 
 <p id="contact">
-  <strong>Anmeldung</strong>: Per Mail bis 21.10.2019 an <mailto:rv.sa-sa-thue@vdb-online.org>.
+  <strong>Anmeldung</strong>: Per Mail bis 21.10.2019 an <rv.sa-sa-thue@vdb-online.org>.
 </p>
 
 <p id="contact">
