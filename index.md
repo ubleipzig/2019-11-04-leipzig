@@ -516,7 +516,7 @@ please preview your site before committing, and make sure to run
   </p>
 
   <p>
-    Unabhängig davon, wie Sie sich für die Installation entscheiden, stellen Sie bitte sicher, dass Sie Python Version 3.x</strong> installieren (z.B. 3.6 ist in Ordnung).
+    Unabhängig davon, wie Sie sich für die Installation entscheiden, stellen Sie bitte sicher, dass Sie Python Version <strong>3.x</strong> installieren (z.B. 3.6 ist in Ordnung).
   </p>
 
   <p>
