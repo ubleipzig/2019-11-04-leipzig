@@ -231,7 +231,7 @@ e.g., '2015-06-10-esu'.
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  Wir werden dieses <a href="{{page.collaborative_notes}}}">kollaborative Dokument</a> zum Chatten, Notieren und Teilen von URLs und Code verwenden.
+  Wir werden dieses <a href="{{page.collaborative_notes}}">kollaborative Dokument</a> zum Chatten, Notieren und Teilen von URLs und Code verwenden.
 </p>
 {% endif %}
 
