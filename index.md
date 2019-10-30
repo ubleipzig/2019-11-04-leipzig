@@ -12,7 +12,7 @@ humantime: "09:00 - 16:30"    # human-readable times for the workshop (e.g., "9:
 startdate: 2019-11-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-11-05        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Martin Czygan", "Ronny Gey", "Tracy Hoffmann", "Peter Mühleder", "Florian Rämisch"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Stefan Dombek"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Stefan Dombek", "Tibor Nebel"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["gey@ub.uni-leipzig.de", "czygan@ub.uni-leipzig.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2019-11-04-leipzig     # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
